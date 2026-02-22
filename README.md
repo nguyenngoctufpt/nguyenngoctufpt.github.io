@@ -38,7 +38,7 @@
   <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3NiZnJzNGltN241azl3Z29mZnY5cWFxN3RkMnpwMmh1ajVrcGM3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif" width="35"> About Me</h2>
   
   <p style="text-align: justify; font-size: 16px; line-height: 1.6;">
-    🎓 Student at <b>FPT Education (FPT Polytechnic)</b>, majoring in <b>Mobile Programming</b>
+    🎓 Student at <b>FPT Education, majoring in <b>Mobile Programming</b>
     🔭 Founder & Developer of <b>StudyMate AI</b> – An AI-powered learning platform<br><br>
     🌱 Currently learning <b>Advanced Mobile Development</b> and <b>AI Integration</b><br><br>
     💼 Developed <b>20+ personal and team projects</b><br><br>
